@@ -1,0 +1,83 @@
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\appsettings.Development.json
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\appsettings.json
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\Order Management.exe
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\Order Management.deps.json
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\Order Management.runtimeconfig.json
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\Order Management.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\Order Management.pdb
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\obj\Debug\net6.0\Order Management.csproj.AssemblyReference.cache
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\obj\Debug\net6.0\Order Management.GeneratedMSBuildEditorConfig.editorconfig
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\obj\Debug\net6.0\Order Management.AssemblyInfoInputs.cache
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\obj\Debug\net6.0\Order Management.AssemblyInfo.cs
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\obj\Debug\net6.0\Order Management.csproj.CoreCompileInputs.cache
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\obj\Debug\net6.0\Order Management.MvcApplicationPartsAssemblyInfo.cs
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\obj\Debug\net6.0\Order Management.MvcApplicationPartsAssemblyInfo.cache
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\obj\Debug\net6.0\staticwebassets.build.json
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\obj\Debug\net6.0\staticwebassets.development.json
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\obj\Debug\net6.0\staticwebassets\msbuild.Order Management.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\obj\Debug\net6.0\staticwebassets\msbuild.build.Order Management.props
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Order Management.props
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Order Management.props
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\obj\Debug\net6.0\scopedcss\bundle\Order Management.styles.css
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\obj\Debug\net6.0\Order Management.csproj.CopyComplete
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\obj\Debug\net6.0\Order Management.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\obj\Debug\net6.0\refint\Order Management.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\obj\Debug\net6.0\Order Management.pdb
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\obj\Debug\net6.0\Order Management.genruntimeconfig.cache
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\obj\Debug\net6.0\ref\Order Management.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\AutoMapper.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\OrderManagement.Core.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\OrderManagement.Services.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\OrderManagement.Services.pdb
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\OrderManagement.Core.pdb
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\OrderManagement.Repo.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\OrderManagement.Repo.pdb
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\Humanizer.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\Order Management\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll

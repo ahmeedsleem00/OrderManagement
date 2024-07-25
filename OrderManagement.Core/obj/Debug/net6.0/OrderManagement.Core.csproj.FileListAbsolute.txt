@@ -1,0 +1,12 @@
+E:\Back-End\New folder\DotNet06\OrderManagement\OrderManagement.Core\bin\Debug\net6.0\OrderManagement.Core.deps.json
+E:\Back-End\New folder\DotNet06\OrderManagement\OrderManagement.Core\bin\Debug\net6.0\OrderManagement.Core.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\OrderManagement.Core\bin\Debug\net6.0\OrderManagement.Core.pdb
+E:\Back-End\New folder\DotNet06\OrderManagement\OrderManagement.Core\obj\Debug\net6.0\OrderManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Back-End\New folder\DotNet06\OrderManagement\OrderManagement.Core\obj\Debug\net6.0\OrderManagement.Core.AssemblyInfoInputs.cache
+E:\Back-End\New folder\DotNet06\OrderManagement\OrderManagement.Core\obj\Debug\net6.0\OrderManagement.Core.AssemblyInfo.cs
+E:\Back-End\New folder\DotNet06\OrderManagement\OrderManagement.Core\obj\Debug\net6.0\OrderManagement.Core.csproj.CoreCompileInputs.cache
+E:\Back-End\New folder\DotNet06\OrderManagement\OrderManagement.Core\obj\Debug\net6.0\OrderManagement.Core.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\OrderManagement.Core\obj\Debug\net6.0\refint\OrderManagement.Core.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\OrderManagement.Core\obj\Debug\net6.0\OrderManagement.Core.pdb
+E:\Back-End\New folder\DotNet06\OrderManagement\OrderManagement.Core\obj\Debug\net6.0\ref\OrderManagement.Core.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\OrderManagement.Core\obj\Debug\net6.0\OrderManagement.Core.csproj.AssemblyReference.cache

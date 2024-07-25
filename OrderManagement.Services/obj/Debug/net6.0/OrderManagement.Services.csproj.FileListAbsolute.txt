@@ -1,0 +1,17 @@
+E:\Back-End\New folder\DotNet06\OrderManagement\OrderManagement.Services\bin\Debug\net6.0\OrderManagement.Services.deps.json
+E:\Back-End\New folder\DotNet06\OrderManagement\OrderManagement.Services\bin\Debug\net6.0\OrderManagement.Services.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\OrderManagement.Services\bin\Debug\net6.0\OrderManagement.Services.pdb
+E:\Back-End\New folder\DotNet06\OrderManagement\OrderManagement.Services\bin\Debug\net6.0\OrderManagement.Core.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\OrderManagement.Services\bin\Debug\net6.0\OrderManagement.Core.pdb
+E:\Back-End\New folder\DotNet06\OrderManagement\OrderManagement.Services\obj\Debug\net6.0\OrderManagement.Services.csproj.AssemblyReference.cache
+E:\Back-End\New folder\DotNet06\OrderManagement\OrderManagement.Services\obj\Debug\net6.0\OrderManagement.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\Back-End\New folder\DotNet06\OrderManagement\OrderManagement.Services\obj\Debug\net6.0\OrderManagement.Services.AssemblyInfoInputs.cache
+E:\Back-End\New folder\DotNet06\OrderManagement\OrderManagement.Services\obj\Debug\net6.0\OrderManagement.Services.AssemblyInfo.cs
+E:\Back-End\New folder\DotNet06\OrderManagement\OrderManagement.Services\obj\Debug\net6.0\OrderManagement.Services.csproj.CoreCompileInputs.cache
+E:\Back-End\New folder\DotNet06\OrderManagement\OrderManagement.Services\obj\Debug\net6.0\OrderManagement.Services.csproj.CopyComplete
+E:\Back-End\New folder\DotNet06\OrderManagement\OrderManagement.Services\obj\Debug\net6.0\OrderManagement.Services.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\OrderManagement.Services\obj\Debug\net6.0\refint\OrderManagement.Services.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\OrderManagement.Services\obj\Debug\net6.0\OrderManagement.Services.pdb
+E:\Back-End\New folder\DotNet06\OrderManagement\OrderManagement.Services\obj\Debug\net6.0\ref\OrderManagement.Services.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\OrderManagement.Services\bin\Debug\net6.0\OrderManagement.Repo.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\OrderManagement.Services\bin\Debug\net6.0\OrderManagement.Repo.pdb

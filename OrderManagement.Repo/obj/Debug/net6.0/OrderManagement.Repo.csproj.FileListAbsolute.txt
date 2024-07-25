@@ -1,0 +1,15 @@
+E:\Back-End\New folder\DotNet06\OrderManagement\OrderManagement.Repo\bin\Debug\net6.0\OrderManagement.Repo.deps.json
+E:\Back-End\New folder\DotNet06\OrderManagement\OrderManagement.Repo\bin\Debug\net6.0\OrderManagement.Repo.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\OrderManagement.Repo\bin\Debug\net6.0\OrderManagement.Repo.pdb
+E:\Back-End\New folder\DotNet06\OrderManagement\OrderManagement.Repo\bin\Debug\net6.0\OrderManagement.Core.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\OrderManagement.Repo\bin\Debug\net6.0\OrderManagement.Core.pdb
+E:\Back-End\New folder\DotNet06\OrderManagement\OrderManagement.Repo\obj\Debug\net6.0\OrderManagement.Repo.csproj.AssemblyReference.cache
+E:\Back-End\New folder\DotNet06\OrderManagement\OrderManagement.Repo\obj\Debug\net6.0\OrderManagement.Repo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Back-End\New folder\DotNet06\OrderManagement\OrderManagement.Repo\obj\Debug\net6.0\OrderManagement.Repo.AssemblyInfoInputs.cache
+E:\Back-End\New folder\DotNet06\OrderManagement\OrderManagement.Repo\obj\Debug\net6.0\OrderManagement.Repo.AssemblyInfo.cs
+E:\Back-End\New folder\DotNet06\OrderManagement\OrderManagement.Repo\obj\Debug\net6.0\OrderManagement.Repo.csproj.CoreCompileInputs.cache
+E:\Back-End\New folder\DotNet06\OrderManagement\OrderManagement.Repo\obj\Debug\net6.0\OrderManagement.Repo.csproj.CopyComplete
+E:\Back-End\New folder\DotNet06\OrderManagement\OrderManagement.Repo\obj\Debug\net6.0\OrderManagement.Repo.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\OrderManagement.Repo\obj\Debug\net6.0\refint\OrderManagement.Repo.dll
+E:\Back-End\New folder\DotNet06\OrderManagement\OrderManagement.Repo\obj\Debug\net6.0\OrderManagement.Repo.pdb
+E:\Back-End\New folder\DotNet06\OrderManagement\OrderManagement.Repo\obj\Debug\net6.0\ref\OrderManagement.Repo.dll
